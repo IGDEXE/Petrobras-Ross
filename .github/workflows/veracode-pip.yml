@@ -1,4 +1,4 @@
-name: Veracode
+name: Veracode_PIP
 on:
   push:
     branches: [ master ]
